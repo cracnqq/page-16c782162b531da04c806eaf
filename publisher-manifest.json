@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "47fcc8a2d2bfc3026861fec7",
+  "owner": "cracnqq",
+  "repo": "page-16c782162b531da04c806eaf",
+  "title": "泡芙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "16c782162b531da04c806eaf",
+      "a": "泡芙",
+      "b": "",
+      "entity": "泡芙",
+      "brand": "泡芙",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4b94ac609fa81beb89a9557ef294233257b28c3aaaa1a590f8fbe1902a9f04ac",
+      "content": {
+        "keyword1": "泡芙",
+        "keyword2": "",
+        "primary_entity": "泡芙",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "泡芙提供稳定的机场订阅与VPN网络加速服务，支持多套餐、全平台客户端下载指引以及流媒体与游戏场景优化。欢迎访问泡芙官方网站了解套餐与操作步骤。",
+          "AI_DESCRIPTION": "泡芙提供稳定的机场订阅与VPN网络加速服务，支持多套餐、全平台客户端下载指引以及流媒体与游戏场景优化。欢迎访问泡芙官方网站了解套餐与操作步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden;background:#F8F5ED;color:#14261C;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75}.top{background:#1A4D38;color:#F4F1E8;padding:18px 16px}.top .brand{font-size:20px;font-weight:700;letter-spacing:1px}nav{margin-top:10px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#D5EDE0;text-decoration:none;font-size:14px}main{max-width:680px;margin:0 auto;padding:8px 16px 40px}h1{font-size:26px;color:#1A4D38;margin:24px 0 8px;line-height:1.3}.lead{font-size:16px;color:#2C4A3A;margin-bottom:20px}h2{font-size:20px;color:#1A4D38;margin:32px 0 12px;padding-bottom:6px;border-bottom:2px solid #2F7A52}h3{font-size:17px;color:#246B45;margin:18px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.3em;margin-bottom:16px}.plan{background:#FFFEFA;border:1px solid #C5D4C4;border-radius:10px;padding:16px;margin:14px 0}.plan.hot{border:2px solid #1A4D38;background:#EEF6F0}.badge{display:inline-block;background:#1A4D38;color:#F8F5ED;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:22px;font-weight:700;color:#1A4D38;margin:6px 0}.annual{font-size:14px;color:#3D5C4A}.feat{margin-top:8px}.steps li{margin-bottom:12px}details{background:#FFFEFA;border:1px solid #C9D6C6;border-radius:8px;padding:10px 14px;margin:10px 0}summary{font-weight:600;color:#1A4D38}details p{margin:8px 0 0;font-size:15px}.note{background:#E8F0EA;padding:12px;border-radius:8px;margin:16px 0;font-size:15px}footer{background:#1A4D38;color:#DCE8E0;padding:24px 16px;text-align:center;font-size:13px}footer a{color:#B8D9C6;text-decoration:none;margin:0 8px}.clients li{margin-bottom:8px}</style><header class=\"top\"><p class=\"brand\">泡芙</p><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>泡芙官方网站</h1><p class=\"lead\">泡芙机场订阅、VPN 网络加速与多端客户端下载的一站式官方指引。稳定梯子，畅连全球。</p><section id=\"intro\"><h2>品牌简介</h2><p>泡芙是面向个人与小团队的网络加速服务品牌，核心产品为泡芙机场订阅与兼容主流协议的 VPN 使用方式。我们筛选低延迟、高可用节点，覆盖网页浏览、流媒体解锁和部分游戏加速需求。访问泡芙官方网站，您可以清晰对比套餐、了解客户端选择要点，并按照纵向步骤完成配置。</p><p>我们坚持官方渠道透明公示价格与流量规则，不捆绑来源不明的安装包。无论您寻找的是泡芙VPN 日常加速，还是 Clash 类客户端的机场订阅，本页内容均可作为起点。请仅将服务用于合法合规的网络访问。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前固定套餐，年付可享更优单价。流量为每月额度，设备数为同时在线上限。旗舰版适合对游戏延迟和流媒体解锁有更高要求的用户。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan hot\"><p class=\"badge\">推荐 · 旗舰</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"clients\"><h2>客户端选择</h2><p>泡芙强调按设备选择合适的客户端，再导入机场订阅。请始终从应用商店或开发者官方页面获取软件，本站不托管安装文件，以避免安全风险。下载完成后使用您的泡芙订阅链接即可连接节点，实现梯子与网络加速。</p><div class=\"note\">选择原则：系统原生体验优先，规则分流需求选 Clash 系，简单连接可选 VPN 类应用。iOS 用户需具备外区商店或已购应用。</div><h3>常见客户端对照</h3><ul class=\"clients\"><li>Windows：Clash for Windows、v2rayN，适合规则分流与系统代理。</li><li>macOS：ClashX Meta、Surge，与系统网络栈配合良好。</li><li>iOS：Shadowrocket、Quantumult X、Stash，完成订阅导入后一键连接。</li><li>Android：Clash Meta for Android、v2rayNG，注意授予 VPN 权限。</li><li>其他：部分路由器可刷入兼容订阅的固件，团队版可咨询定制路由。</li></ul><p>官方下载指引：先确定系统，再搜索对应客户端官方名称，安装后回到泡芙用户中心复制订阅。切勿轻信第三方「一键包」。本官方网站仅提供选择与操作说明。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版全节点原生解锁，适合观看海外影视、音乐与直播。基础版覆盖常见平台的基础解锁。请遵守版权与平台条款。</p><h3>游戏与实时应用</h3><p>旗舰版 IPLC 专线针对延迟敏感场景做了优化，团队版提供更高带宽节点。加速效果因地区与运营商而异，建议多节点测速后使用。</p><h3>办公、学习与隐私</h3><p>跨境会议、文献数据库、开发者资源访问是高频需求。加密隧道有助于在不可信网络下保护传输内容。泡芙VPN 与机场模式均可按场景切换。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按照下列纵向步骤，即可从了解到连接泡芙服务。全程无需在本页提交表单。</p><ol class=\"steps\"><li>阅读套餐差异，按流量、设备数与是否需要游戏专线，选定基础版、旗舰版或团队版。</li><li>通过泡芙官方公布的购买入口完成订阅（本页仅作说明），在用户中心复制订阅链接或二维码。</li><li>打开「客户端选择」章节，根据手机或电脑系统安装正版客户端。</li><li>在客户端中添加订阅 URL，更新节点，按延迟或名称筛选可用线路。</li><li>开启代理或 VPN 开关，访问目标网站或启动游戏，完成网络加速。遇阻时切换节点或查阅下方 FAQ。</li></ol><p>节点会不定期维护，客户端内手动更新订阅可获取最新列表。年付用户享有同等节点池，仅计费周期更长。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>泡芙是什么品牌？和机场、VPN 是什么关系？</summary><p>泡芙是提供机场订阅与 VPN 加速能力的服务品牌。机场指可导入 Clash 等客户端的节点订阅，VPN 则强调系统级连接体验。二者共用泡芙线路资源。请以泡芙官方网站信息为准，认准品牌名称避免钓鱼站点。</p></details><details><summary>怎样选择并下载客户端才安全？</summary><p>本页将客户端选择作为重点：只使用各软件官方渠道。Windows 与 Android 可从 GitHub 发布页或官网获取，iOS 需 App Store。安装后导入泡芙订阅即可，不要下载声称「泡芙官方客户端」的不明安装包。</p></details><details><summary>三个套餐该如何挑选？</summary><p>轻度浏览选基础版；需要更好流媒体解锁和游戏线路选旗舰版；多人共用或大流量选团队版。价格与年付优惠已在套餐区标明。设备同时在线超限时，较早连接可能被挤下线。</p></details><details><summary>支持哪些流媒体解锁和游戏加速？</summary><p>旗舰版强调全节点原生流媒体解锁，并含 IPLC 游戏优化。具体平台可用性会随目标站策略变化，无法保证百分之百永久解锁。游戏加速侧重降低路由绕路，非修改游戏本身。</p></details><details><summary>订阅导入失败或经常掉线怎么处理？</summary><p>确认链接完整、客户端版本较新、设备时间准确。尝试更换协议或节点，关闭系统防火墙干扰项。旗舰版与团队版可走优先工单。泡芙会持续调整节点质量，建议收藏本官方网站查看说明更新。</p></details><details><summary>流量如何统计？用完能否升级？</summary><p>按代理实际产生的流量计费，本地直连不计。额度用尽后可能限速或需等待下个周期。如需更多流量，可在官方渠道升级至更高套餐。团队版适合长期大流量场景。</p></details><details><summary>如何确认自己访问的是泡芙官网？</summary><p>认准品牌「泡芙」及本页公开的套餐与操作说明结构。不要轻信搜索广告中的仿冒下载页。官方不通过非公示渠道索要额外付款。客户端请从软件原厂获取，订阅仅从您的泡芙账户复制。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>泡芙官方网站 · 机场订阅与 VPN 客户端下载说明</p><p><a href=\"#intro\">回到简介</a><a href=\"#clients\">客户端选择</a><a href=\"#faq\">常见问题</a></p><p>本站提供信息服务，使用加速服务请遵守法律法规。友情链接：<a href=\"#\">网络工具说明</a> · <a href=\"#\">客户端百科</a></p></footer>",
+          "hash": "e715061e20208682830bd0a98bdd880231bae9af68dd853a122713c33accfe8b",
+          "seo": {
+            "title": "泡芙官方网站 | 机场订阅、VPN加速器与客户端下载",
+            "keywords": "泡芙,泡芙机场,泡芙VPN,泡芙官网,机场订阅,客户端下载,网络加速,加速器,梯子,官方下载,VPN客户端",
+            "description": "泡芙提供稳定的机场订阅与VPN网络加速服务，支持多套餐、全平台客户端下载指引以及流媒体与游戏场景优化。欢迎访问泡芙官方网站了解套餐与操作步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "longbamall.cn",
+    "host": "p-89faa5cc24.longbamall.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "longbamall.cn",
+      "url": "https://longbamall.cn/",
+      "label": "Exflux",
+      "apex": "longbamall.cn",
+      "kind": null,
+      "identity": "cnkkspst/page-1e498ec99c42db715392e6b3"
+    },
+    {
+      "host": "cjnurhf.cn",
+      "url": "https://cjnurhf.cn/",
+      "label": "泡芙",
+      "apex": "cjnurhf.cn",
+      "kind": null,
+      "identity": "ghc336199/page-b5a4cef20136cda8cfd6b076"
+    },
+    {
+      "host": "gqwwnoo.cn",
+      "url": "https://gqwwnoo.cn/",
+      "label": "泡芙",
+      "apex": "gqwwnoo.cn",
+      "kind": null,
+      "identity": "neejxxpus/page-1ef6414e162973b552982048"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "dada358b018cdf0f55986e56b11ac5dd4c34bfed4d62ac18977287770dd77579",
+    "sitemap.xml": "6c8e88cdaf7612966e3d9d7749f48b92b053ede3f124c4788be1537e69f76a81",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4219caf2e9b7c58e10af00f14049355d7328f4c5fb9d2184da10c86ce082576d",
+    "robots.txt": "f25054e8ea19eee2d4d33f55b40c2e81b41b7b1ac8f40121138b7d97daa15201",
+    "f97bfb90b49240881e75ba9f2ab747ad.txt": "90503722ab5b3c0abe1dcb26542d3926059139c206295ec7b912bd31c9cc86fd"
+  },
+  "revision": "324f527734c67c7cf061218a0184cb7eee958d6de271f4ebe6f698f03802cfc8"
+}
